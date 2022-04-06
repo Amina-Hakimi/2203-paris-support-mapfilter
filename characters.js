@@ -591,4 +591,10 @@ const characters = [
   },
 ];
 
+// ES5: vieille syntaxe
 module.exports = characters;
+
+// ES6: modules <3
+// export default characters;
+
+// Exports nommés : Coming soon (sorry !)
